@@ -7,7 +7,7 @@
   display: flex;
 }
 .bar {
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(52, 175, 223);
 }
 .sample {
   flex: 1 1 auto;
@@ -15,6 +15,7 @@
 .text {
   font-size: 20px;
   font-family: sans-serif;
+  text-align: center;
   font-weight: 600;
 }
 .box {
@@ -22,21 +23,21 @@
 }
 .menu-icon {
   background-color: white;
-  color: black;
+  color: white;
   border: none;
   font-size: 40px;
   cursor: pointer;
 }
 .favorite-icon {
-  background-color: white;
-  color: black;
+  background-color: rgb(52, 175, 223);
+  color: white;
   border: none;
   font-size: 40px;
   cursor: pointer;
 }
 .share-icon {
-  background-color: white;
-  color: black;
+  background-color: rgb(52, 175, 223);
+  color: white;
   border: none;
   font-size: 40px;
   cursor: pointer;
