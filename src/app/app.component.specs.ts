@@ -31,11 +31,3 @@ describe('AppComponent', () => {
     );
   });
 });
-
-function expect(textContent: string) {
-  throw new Error('Function not implemented.');
-}
-
-function beforeEach(arg0: () => Promise<void>) {
-  throw new Error('Function not implemented.');
-}
