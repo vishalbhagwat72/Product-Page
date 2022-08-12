@@ -48,4 +48,13 @@
   font-size: larger;
   margin-right: 16px;
   cursor: pointer;
+
+}
+
+.product-link{
+  background-color: white;
+  border: none;
+  font-size: larger;
+  margin-right: 16px;
+  cursor: pointer;
 }
