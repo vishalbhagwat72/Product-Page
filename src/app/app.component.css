@@ -45,15 +45,18 @@
 .product-link {
   background-color: white;
   border: none;
-  font-size: larger;
+  font-size: medium;
+  font-family: 'Times New Roman', Times, serif;
   margin-right: 16px;
   cursor: pointer;
+
 }
 
-.product-link {
+.product-details{
   background-color: white;
   border: none;
+  font-family: 'Times New Roman', Times, serif;
   font-size: medium;
-  margin-right: 10px;
+  margin-right: 16px;
   cursor: pointer;
 }
